@@ -1,6 +1,6 @@
 ## tsvetkov96
 
-I'm a sysadmin / engineer by trade and a Linux user since ubuntu 12.
+I'm a sysadmin / engineer by trade and a Linux user since kernel release 3.8.
 
 There's a big change you're are recruiter / hiring manager and my resume is what brought you here.
 If that's the case, make sure to have a look at my pinned projects.
